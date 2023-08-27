@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ManasweeReddy
+- 🌱 I’m currently learning to build an application for my web application development course at UT along with my teammates
